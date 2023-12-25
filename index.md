@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Wonder Advisory
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Straightforward, honest, financial advice. We are a financial advisory that focuses on FP&A, Captal Buidgeting, and overall Financial Literacy.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Wonder Advisory.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Straightforward, honest, financial advice. We are a financial advisory that focuses on FP&A, Captal Buidgeting, and overall Financial Literacy.
