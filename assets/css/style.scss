@@ -116,3 +116,16 @@ body {
     line-height: 1.3;
   }
 }
+
+.header {
+  position: sticky;
+  top: 0px; // Replace 100px with the amount of scrolling you want before the header becomes fixed
+  width: 100%;
+  z-index: 1000;
+  background-color: inherit; // This will make the header have the same background color as the body
+}
+
+// Add a top padding to the main content equal to the height of the header
+.main-content {
+  padding-top: 300px; // Replace $header-height with the height of your header
+}

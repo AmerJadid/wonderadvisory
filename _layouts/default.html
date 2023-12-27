@@ -29,7 +29,10 @@
 <body class='page {{layout.bodyClass}}'>
   {% include main-menu-mobile.html %}
   <div id="wrapper" class="wrapper">
+    {% include top-bar.html %}
+    
     {% include header.html headerClass='header-extra' %}
+
     {{content}}
   </div>
   {% include footer.html %}
