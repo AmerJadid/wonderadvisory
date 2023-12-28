@@ -1,7 +1,7 @@
 baseurl: ""
 url: "https://wonderadvisory.com"
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Wonder Advisory'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
