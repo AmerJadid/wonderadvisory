@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Complimentary Initial Assessment",
+    "description": "New clients enjoy a complimentary initial assessment to delve into the challenges you're encountering in your financial planning and analysis (FP&A). This allows us to understand your unique needs, paving the way for a more tailored solution when we formalize our partnership.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Certified Finance Professionals",
+    "description": "Tailored for finance students at prestigious universities, explore corporate finance, risk analysis, and advanced mathematical concepts. Join our risk-free trial session to engage in hands-on learning, gaining insights into financial decision-making and report analysis.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "SCM Professionals",
+    "description": "Tailored for prestigious university students, master supply chain methodologies, design networks, and understand systemic interactions. Learn trade-offs in forecasting, inventory, and transportation, and gain insights into technology integration for end-to-end management.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
