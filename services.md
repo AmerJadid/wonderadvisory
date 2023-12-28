@@ -2,7 +2,7 @@
 title: Services
 layout: services
 description: Services
-intro_image: "images/illustrations/business-meeting.svg"
+intro_image: "images/illustrations/payment.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
