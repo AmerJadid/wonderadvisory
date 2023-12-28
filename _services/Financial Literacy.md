@@ -7,7 +7,7 @@ weight: 2
 <!-- FILEPATH: /c:/Users/Admin/Documents/GitHub/wonderadvisory/_services/Financial Planning & Analysis.md -->
 <!-- BEGIN: ed8c6549bwf9 -->
 <p></p>
-<p>Wonder Advisory is more than just a financial consultancy firm. We also provide tutoring for students in prestigious universities who want to excel in finance topics such as financial accounting, foundation of finance, financial engineering, engineering economics, and more.</p> 
+<p>Wonder Advisory is more than just a financial consultancy firm. We also provide tutoring for students in prestigious universities who want to excel in finance topics such as Financial Accounting, Foundation of Modern Finance, Financial Engineering, Engineering Economy, and more.</p> 
 
 <img src="/images/austin-distel-nGc5RT2HmF0-unsplash.jpg" alt="Accounting Services">
 

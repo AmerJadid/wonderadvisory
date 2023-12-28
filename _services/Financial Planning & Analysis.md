@@ -7,11 +7,13 @@ weight: 1
 <!-- FILEPATH: /c:/Users/Admin/Documents/GitHub/wonderadvisory/_services/Financial Planning & Analysis.md -->
 <!-- BEGIN: ed8c6549bwf9 -->
 <p></p>
-<p>Financial Planning &amp; Analysis (FP&amp;A) is an important function at a corporation. FP&amp;A professionals support executive decision making for the CEO, CFO and Board of Directors with planning, analysis, and modeling. FP&amp;A professionals are the finance team members responsible for budgeting, forecasting, and analysis.</p>
+<p> At Wonder Advisory, we go beyond traditional consulting services by combining the power of strategic FP&amp;A with a commitment to fostering financial education. Our mission is to empower businesses to achieve financial excellence and individuals to make informed financial decisions.</p>
 
 <img src="/images/austin-distel-nGc5RT2HmF0-unsplash.jpg" alt="Accounting Services">
 
-<p>Welcome to Wonder Advisory, your trusted partner in navigating the complex realms of Financial Planning and Analysis (FP&amp;A) and enhancing Financial Literacy. At Wonder Advisory, we go beyond traditional consulting services by combining the power of strategic FP&amp;A with a commitment to fostering financial education. Our mission is to empower businesses to achieve financial excellence and individuals to make informed financial decisions.</p>
+<p>Financial Planning &amp; Analysis (FP&amp;A) is an important function at a corporation. FP&amp;A professionals support executive decision making for the CEO, CFO and Board of Directors with planning, analysis, and modeling. FP&amp;A professionals are the finance team members responsible for budgeting, forecasting, and analysis.</p>
+
+<h2>Service Offerings</h2>
 
 <!-- <h3>Service Offerings:</h3> -->
 
