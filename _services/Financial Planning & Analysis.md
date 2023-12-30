@@ -9,9 +9,11 @@ weight: 1
 <p></p>
 <p> At Wonder Advisory, we go beyond traditional consulting services by combining the power of strategic FP&amp;A with a commitment to fostering financial education. Our mission is to empower businesses to achieve financial excellence and individuals to make informed financial decisions.</p>
 
-<img src="/images/austin-distel-nGc5RT2HmF0-unsplash.jpg" alt="Accounting Services">
-
 <p>Financial Planning &amp; Analysis (FP&amp;A) is an important function at a corporation. FP&amp;A professionals support executive decision making for the CEO, CFO and Board of Directors with planning, analysis, and modeling. FP&amp;A professionals are the finance team members responsible for budgeting, forecasting, and analysis.</p>
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/9xEClW9iwBg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<p></p>
 
 <h2>Service Offerings</h2>
 
@@ -49,5 +51,11 @@ weight: 1
   <li>Passion for Financial Wellness: We are dedicated to promoting financial literacy as a foundation for prosperity.</li>
   <li>Client-Centric Values: Your success is our priority, and our services are tailored to your specific needs.</li>
 </ul>
+
+<!-- BEGIN: NEW LINES -->
+<p></p>
+<p></p>
+<!-- END: NEW LINES -->
+
 <!-- END: ed8c6549bwf9 -->
 
