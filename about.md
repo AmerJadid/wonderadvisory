@@ -7,7 +7,7 @@ bodyClass: page-about
 
 Wonder Advisory is a leading provider of financial consultancy services, specializing in financial planning and analysis (FP&A). We help our clients achieve their strategic and operational goals by offering customized solutions in areas such as budgeting, forecasting, reporting, and modeling.
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+![About us](/images/about_us_page.svg)
 
 We also offer financial literacy and supply chain management literacy services for finance students at prestigious universities. Our tutors are experts in their fields and have extensive experience in teaching and mentoring. Whether you need help with accounting, economics, statistics, or logistics, we can help you master the concepts and skills you need to succeed in your academic and professional career.
 
