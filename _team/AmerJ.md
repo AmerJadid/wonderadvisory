@@ -36,4 +36,4 @@ Amer, a skilled financial modeler and consultant, is dedicated to client satisfa
 ## Fun Fact:
 In addition to being a financial whiz, Amer is an avid swimmer. Whether diving into complex financial models or the deep end of a pool, Amer brings a refreshing and determined approach to everything they do.
 
-*Connect with Amer and the rest of our team to discover how Amer can elevate your business strategies and outcomes. We look forward to partnering with you on your journey to success!*
+*Connect with Amer and the rest of our team to discover how we can elevate your business strategies and outcomes. We look forward to partnering with you on your journey to success!*
