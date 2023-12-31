@@ -9,7 +9,9 @@ weight: 3
 <p></p>
 <p>Wonder Advisory, a distinguished financial consultancy firm, extends its expertise beyond financial services to offer unparalleled tutoring for students enrolled in prestigious universities. Specializing in Industrial Engineering, Engineering Management, and supply chain management, our tutoring services encompass a wide array of topics crucial for academic and professional success.</p>
 
-<img src="/images/austin-distel-nGc5RT2HmF0-unsplash.jpg" alt="Accounting Services">
+<div style="text-align: center;">
+  <img src="/images/illustrations/teaching.svg" alt="Supply Chain Management Teaching" style="width: 60%;">
+</div>
 
 <h3>Focus on Core Supply Chain Topics</h3>
 <p>Wonder Advisory excels in tutoring students seeking mastery in supply chain management, covering essential topics such as linear optimization/programming, simulation, logistics, procurement, sourcing, distribution, and more. These fundamental subjects form the backbone of efficient business processes and operations, and our tutors guide students in making informed trade-offs and decisions.</p>

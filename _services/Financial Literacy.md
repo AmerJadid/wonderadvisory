@@ -9,7 +9,9 @@ weight: 2
 <p></p>
 <p>Wonder Advisory is more than just a financial consultancy firm. We also provide tutoring for students in prestigious universities who want to excel in finance topics such as Financial Accounting, Foundation of Modern Finance, Financial Engineering, Engineering Economy, and more.</p> 
 
-<img src="/images/austin-distel-nGc5RT2HmF0-unsplash.jpg" alt="Accounting Services">
+<div style="text-align: center;">
+  <img src="/images/illustrations/predictive_analytics.svg" alt="Financial Literacy" style="width: 45%;">
+</div>
 
 <p>At Wonder Advisory, tutors are highly qualified and experienced professionals who have worked in various sectors of the financial industry. They can help you with your assignments, projects, exams, and research papers, as well as provide you with guidance and mentorship for your career development. Whether you need help with understanding financial concepts, solving financial problems, or applying financial tools and techniques, our tutors can help you achieve your academic and professional goals.</p>
 
