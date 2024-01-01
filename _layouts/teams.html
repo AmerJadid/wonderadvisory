@@ -43,6 +43,12 @@ bodyClass: "page-teams"
         </div>
         {% endfor %}
     </div>
+
+    <div class="row">
+        <div class="col-12">
+            <hr>
+        </div>
+
     <div class="row pt-6 pb-6">
         {% assign teams = site.team | where: "promoted", empty | sort: "weight" %}
         {% for team in teams %}
