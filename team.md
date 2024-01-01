@@ -5,7 +5,7 @@ description: Team
 permalink: "/team/"
 intro_image: "images/illustrations/pixeltrue-seo.svg"
 intro_image_absolute: false
-intro_image_hide_on_mobile: false
+intro_image_hide_on_mobile: true
 ---
 
 # Meet The Team
