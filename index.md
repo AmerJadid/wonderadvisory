@@ -11,3 +11,6 @@ show_call_box: true
 # Wonder Advisory
 
 Focused on data-driven decision-making, our advisory firm specializes in Financial Planning & Analysis (FP&A), Budgeting, Forecasting, Financial Modeling, Performance Metrics, Cash Flow Management, and Scenario Planning. Our commitment to straightforward, honest financial advice extends to a comprehensive approach that includes expertise in supply chain management alongside our core focus on FP&A and financial literacy.
+
+<!-- Slogan -->
+<!-- Excel in Every Equation: Wonder Advisory, Your Beacon for Strategic Financial Guidance -->
