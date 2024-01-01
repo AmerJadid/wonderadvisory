@@ -3,12 +3,12 @@
 
 // Colors
 $null: transparent;
-$primary: #e5261f;
+$primary: #035373;
 $primary-dark: #a01b16;
-$secondary: #f88379;
+$secondary: #F2780C;
 $black: #2f2f41;
 $white: #ffffff;
-$white-offset: #fff6f8;
+$white-offset: #89D1D926;
 $steel: #5c5a5a;
 
 //add new colors
@@ -140,7 +140,7 @@ body {
   top: 0px; // Replace 100px with the amount of scrolling you want before the header becomes fixed
   width: 100%;
   z-index: 1000;
-  background-color: inherit; // This will make the header have the same background color as the body
+  //background-color: inherit; // This will make the header have the same background color as the body
 }
 
 // Add a top padding to the main content equal to the height of the header
