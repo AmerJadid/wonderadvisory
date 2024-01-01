@@ -1,8 +1,11 @@
 <div class='header'>
   <div class="container">
     <div class="logo">
-      <a href="{{ site.url }}"><img width="{{ site.logo.desktop_width }}" height="{{ site.logo.desktop_height }}" alt="{{ site.title }}" src="{{ site.logo.desktop | relative_url }}" /></a>
-<!--      <a href="{{ site.url }}"><img width="220px" height="40px" alt="{{ site.title }}" src="{{ site.logo.desktop | relative_url }}" /></a>-->
+        {% if site.url == 'http://localhost:4000' or site.url == 'http://127.0.0.1:4000' %}
+            <a href="{{ site.url }}"><img width="220px" height="40px" alt="{{ site.title }}" src="{{ site.logo.desktop | relative_url }}" /></a>
+        {% else %}
+            <a href="{{ site.url }}"><img width="{{ site.logo.desktop_width }}" height="{{ site.logo.desktop_height }}" alt="{{ site.title }}" src="{{ site.logo.desktop | relative_url }}" /></a>
+{% endif %}
     </div>
     <div class="logo-mobile">
       <a href="{{ site.url }}"><img width="{{ site.logo.mobile_width }}" height="{{ site.logo.mobile_height }}" alt="{{ site.title }}" src="{{ site.logo.mobile | relative_url }}" /></a>
