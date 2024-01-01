@@ -9,7 +9,7 @@ logo:
   mobile_width: "32px"
   desktop: "images/logo/logo.svg"
   desktop_height: "40px"
-  desktop_width: "220px
+  desktop_width: "220px"
 
 home: 
   limit_services: 3
