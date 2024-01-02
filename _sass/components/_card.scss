@@ -1,9 +1,9 @@
 .card {
   height: 124px; // Set a specific height
-  border: .5px dashed lighten($primary, 50%);
-  border-radius: 3px;
-  padding: 20px;
-  background-color: lighten($primary, 75%);;
+  border: .5px dashed darken($white-offset, 100%);
+  border-radius: 10px;
+  padding: 50px;
+  background-color: lighten($white-offset, 10%);
   display: flex;
   align-items: center;
   justify-content: center; // Add this to vertically center the text
