@@ -1,6 +1,10 @@
 .strip {
   background: white;
   background-repeat: no-repeat;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .strip-white {
   background-color: white;

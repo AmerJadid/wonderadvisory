@@ -17,7 +17,10 @@
         text-decoration: none;
         color: $secondary;
         &:hover {
-          text-decoration: underline;
+          text-decoration: none;
+          background-color: lighten($secondary,47%); // Add this line
+          border-radius: 5px; // Add this line
+          transition: all 50ms ease-in 0s;
         }
       }
       &.active {
@@ -26,7 +29,9 @@
           text-decoration: none;
           &:hover {
             text-decoration: none;
-            transition: all 225ms ease-in 0s;
+            background-color: lighten($secondary,47%); // Add this line
+            border-radius: 5px; // Add this line
+            transition: all 50ms ease-in 0s;
           }
         }
       }
