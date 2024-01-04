@@ -3,7 +3,7 @@
   overflow: hidden;
   background-color: lighten($white-offset, 10%);
   border-radius: 10px;
-  // box-shadow: 0 15px 35px rgba(50, 50, 93, 0.1), 0 5px 15px rgba(0, 0, 0, 0.07);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.10), 0 2px 4px rgba(0, 0, 0, 0.08);
   width: 100%;
   display: flex;
   align-items: center;
@@ -31,19 +31,25 @@
     }
   }
   .call-name {
-    font-size: 1.1rem;
+    font-size: 1.15rem;
     font-weight: bold;
   }
   .call-phone {
     margin-bottom: 5px;
+    a {
+      color: $primary;
+      font-size: 1.15rem;
+    }
   }
   .call-email {
     a {
-      color: $black;
+      color: $primary;
+      font-size: 1.15rem;
     }
   }
   strong {
     font-weight: bold;
+    font-size: 1.15rem;
   }
   svg {
     fill: lighten($secondary, 40%);
