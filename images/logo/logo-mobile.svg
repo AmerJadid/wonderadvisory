@@ -3,19 +3,21 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#015573;stroke-width:3.5;stroke-miterlimit:10;}
-	.st1{fill:none;stroke:#F17821;stroke-width:3.5;stroke-miterlimit:10;}
-	.st2{fill:#015573;}
-	.st3{fill:#F17821;}
+	.st0{fill:none;stroke:#015573;stroke-width:2.5;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#F17821;stroke-width:2.5;stroke-miterlimit:10;}
+	.st2{fill:#015573;stroke:#005573;stroke-width:0.25;stroke-miterlimit:10;}
+	.st3{fill:#F17821;stroke:#F07822;stroke-width:0.25;stroke-miterlimit:10;}
 </style>
 <g>
-	<polyline class="st0" points="15.2,32 0,32 0,0 23.4,0 32,0 	"/>
-	<polyline class="st1" points="23.4,0 32,0 32,32 15.2,32 	"/>
 	<g>
-		<polygon class="st2" points="21,9 17.8,9 17.8,9.9 19.2,10.1 19.5,10.4 16.9,20.1 13.5,9 12.1,9 8.7,19.9 6.1,10.3 6.2,10 
-			7.5,9.9 7.5,9 2.9,9 2.9,9.9 4.2,10.1 7.7,23 9.1,23 12.5,11.6 16,23 17.4,23 		"/>
-		<polygon class="st3" points="27.4,21.9 22.4,9 21.7,11.9 23.5,16.8 20.5,16.8 20.2,17.8 23.9,17.8 25.4,21.7 25.2,22 24,22.1 
-			24,23 28.7,23 28.7,22.1 		"/>
+		<polyline class="st0" points="15.2,31.1 0.9,31.1 0.9,0.9 22.9,0.9 31.1,0.9 		"/>
+		<polyline class="st1" points="22.9,0.9 31.1,0.9 31.1,31.1 15.2,31.1 		"/>
+	</g>
+	<g>
+		<polygon class="st2" points="21.2,9 18.1,9 18.1,9.9 19.5,10.1 19.7,10.4 17.2,20.1 13.8,9 12.3,9 9,19.9 6.3,10.3 6.5,10 
+			7.8,9.9 7.8,9 3.1,9 3.1,9.9 4.4,10.1 7.9,23 9.3,23 12.7,11.6 16.2,23 17.7,23 		"/>
+		<polygon class="st3" points="27.6,21.9 22.7,9 21.9,11.9 23.8,16.8 20.7,16.8 20.4,17.8 24.1,17.8 25.6,21.7 25.5,22 24.2,22.1 
+			24.2,23 28.9,23 28.9,22.1 		"/>
 	</g>
 </g>
 </svg>
