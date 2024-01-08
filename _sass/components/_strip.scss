@@ -24,8 +24,12 @@
   background-image: linear-gradient(to right, $primary, $secondary);
 }
 .strip-primary-gradient-top-bottom {
-  background-image: linear-gradient(to bottom, $primary, $secondary);
+  background-image: linear-gradient(to bottom, lighten($primary,70%), lighten($secondary,45%));
 }
+.strip-secondary-gradient-top-bottom {
+  background-image: linear-gradient(to bottom, lighten($secondary,46%),lighten($primary,65%));
+}
+
 .strip-primary {
   background-color: $primary;
 }
