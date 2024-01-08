@@ -1,7 +1,7 @@
 .card {
   height: 124px; // Set a specific height
-  border: .5px dashed darken($white-offset, 100%);
-  border-radius: 10px;
+  border: 1px dashed darken($white-offset, 100%);
+  border-radius: 1px;
   padding: 50px;
   background-color: lighten($white-offset, 10%);
   display: flex;
