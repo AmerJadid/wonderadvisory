@@ -4,6 +4,13 @@
     {% for item in mainmenu %}
     <li class="{% if item.url == page.url %}active{% endif %}">
       <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+      {% if item.name == 'Services' %}
+        <ul class="services-dropdown">
+          {% for service in site.services %}
+            <li><a href="{{ service.url | relative_url }}">{{ service.title }}</a></li>
+          {% endfor %}
+        </ul>
+      {% endif %}
     </li>
     {% endfor %}
   </ul>
