@@ -1,7 +1,7 @@
 ---
-title: Wonder Advisory
+title: Financial Planning & Analysis (FP&A) Advisory | Wonder Advisory
 layout: home
-description: Advisory & consulting firm that focuses on Financial Planning & Analysis (FP&A), Financial Literacy, and Supply Chain Management.
+description:  Leading provider of financial advisory & consultancy services, specializing in Financial Planning & Analysis (FP&A), Financial Literacy, and Supply Chain Management. We help our clients achieve their strategic and operational goals by offering customized solutions in areas such as budgeting, forecasting, reporting, and modeling.
 intro_image: "images/illustrations/business-meeting.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
