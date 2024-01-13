@@ -1,7 +1,7 @@
 ---
 title: Wonder Advisory
 layout: home
-description: Straightforward, honest, financial advice. We are an advisory firm that focuses on financial planning and analysis (FP&A) and overall financial literacy.
+description: Advisory & consulting firm that focuses on Financial Planning & Analysis (FP&A), Financial Literacy, and Supply Chain Management.
 intro_image: "images/illustrations/business-meeting.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
