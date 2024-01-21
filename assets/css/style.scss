@@ -148,3 +148,13 @@ body {
 .main-content {
   padding-top: 300px; // Replace $header-height with the height of your header
 }
+
+// remove margin from header when user is scrolling down
+.no-margin {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+.logo {
+    transition: margin-top 0.5s ease, margin-bottom 0.5s ease;
+}

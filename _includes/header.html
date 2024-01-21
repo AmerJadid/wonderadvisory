@@ -1,11 +1,11 @@
 <div class='header'>
   <div class="container">
-    <div class="logo">
+    <div class="logo mt-1 mb-1">
         {% if site.url == 'http://localhost:4000' or site.url == 'http://127.0.0.1:4000' %}
             <a href="{{ site.url }}"><img width="220px" height="40px" alt="{{ site.title }}" src="{{ site.logo.desktop | relative_url }}" /></a>
         {% else %}
             <a href="{{ site.url }}"><img width="{{ site.logo.desktop_width }}" height="{{ site.logo.desktop_height }}" alt="{{ site.title }}" src="{{ site.logo.desktop | relative_url }}" /></a>
-{% endif %}
+        {% endif %}
     </div>
     <div class="logo-mobile">
       <a href="{{ site.url }}"><img width="{{ site.logo.mobile_width }}" height="{{ site.logo.mobile_height }}" alt="{{ site.title }}" src="{{ site.logo.mobile | relative_url }}" /></a>
@@ -14,17 +14,6 @@
     {% include hamburger.html %}
   </div>
 </div>
-
-<script>
-  window.addEventListener('scroll', function() {
-    var header = document.querySelector('.header');
-    if (window.scrollY > 0) {
-      header.style.backgroundColor = '';
-    } else {
-      header.style.backgroundColor = '';
-    }
-  });
-</script>
 
 <style>
   .header {
