@@ -8,6 +8,7 @@ gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 
 group :jekyll_plugins do
     gem "jekyll-environment-variables"
+    gem "jekyll-last-modified-at"
     gem "jekyll-seo-tag"
     gem "jekyll-sitemap"
 end

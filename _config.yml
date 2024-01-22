@@ -39,8 +39,13 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-last-modified-at # https://github.com/gjtorikian/jekyll-last-modified-at
   - jekyll-seo-tag
   - jekyll-sitemap
+
+# Optional. The default date format, used if none is specified in the tag.
+last-modified-at:
+  date-format: '%d-%b-%y'
 
 exclude:
   - Gemfile
