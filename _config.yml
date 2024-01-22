@@ -40,7 +40,7 @@ sass:
 plugins:
   - jekyll-environment-variables
   - jekyll-last-modified-at # https://github.com/gjtorikian/jekyll-last-modified-at
-  - jekyll-seo-tag
+  - jekyll-seo-tag # https://www.youtube.com/watch?v=7o7DRrCstdo
   - jekyll-sitemap
 
 # Optional. The default date format, used if none is specified in the tag.
