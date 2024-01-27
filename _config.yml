@@ -36,7 +36,7 @@ defaults:
   - scope:
       path: "**"
     values:
-      image: "images/favicon-32x32.svg"
+      image: "images/og_image-200x200.svg"
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
