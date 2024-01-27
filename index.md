@@ -6,6 +6,7 @@ intro_image: "images/illustrations/business-meeting.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 show_call_box: true
+image: "images/og_image-200x200.svg"
 ---
 
 <h1 style="color: #035373;">Financial & Supply Chain Consultants</h1>
