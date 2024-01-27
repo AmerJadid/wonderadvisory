@@ -1,5 +1,6 @@
 ---
 title: "Financial Planning and Analysis"
+permalink: "/services/financial-planning-and-analysis"
 date: 2023-12-26T12:33:46+10:00
 weight: 1
 ---
