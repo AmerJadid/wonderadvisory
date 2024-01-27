@@ -36,7 +36,7 @@ defaults:
   - scope:
       path: "**"
     values:
-      image: "images/illustrations/pointing.svg"
+      image: "images/og_image-200x200.png"
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
