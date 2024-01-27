@@ -20,6 +20,10 @@
   <meta name="twitter:card" content="summary"/>
   {% if site.data.seo.meta_twitter_site %}<meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}"/>{% endif %}
   {% if site.data.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}"/>{% endif %}
+
+  {% if site.data.seo.meta_linkedin_site %}<meta property='og:url' content='{{ site.data.seo.meta_linkedin_site }}' />{% endif %}
+  {% if site.data.seo.meta_linkedin_creator %}<meta property='og:author' content='{{ site.data.seo.meta_linkedin_creator }}' />{% endif %}
+
   {% include google-analytics.html %}
 </head>
 
