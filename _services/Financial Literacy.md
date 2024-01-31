@@ -1,6 +1,8 @@
 ---
 title: "Financial Literacy"
 permalink: "/services/financial-literacy"
+tagline: "Unlock Your Financial Potential with Wonder Advisory's Expert Financial Literacy Tutoring Services"
+description: "At Wonder Advisory, our tutors are seasoned professionals with extensive experience across diverse sectors of the financial industry. Whether you're tackling assignments, projects, exams, or research papers, our highly qualified tutors are here to guide you. Receive personalized attention and tailored sessions, choosing from our one-on-one tutoring for individualized feedback, group tutoring for collaborative learning, or online tutoring for flexible access. Elevate your understanding of financial concepts, problem-solving skills, and application of tools with our expert tutors, helping you achieve both academic excellence and career development goals."
 date: 2023-12-27T12:33:46+10:00
 weight: 2
 ---

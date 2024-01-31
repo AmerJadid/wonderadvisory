@@ -3,7 +3,8 @@
 
 <head>
   <meta charset="utf-8">
-  <title>{% if page.title %}{{page.title}}{% else %}{{ site.title | escape }}{% endif %}</title>
+<!--  <title>{% if page.title %}{{page.title}}{% else %}{{ site.title | escape }}{% endif %}</title>-->
+  <title>{{ page.title | default: site.title | escape }}</title>
   {% include schema.html %}
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="icon" type="image/x-icon" href="{{ '/images/favicon.ico' | relative_url }}">
