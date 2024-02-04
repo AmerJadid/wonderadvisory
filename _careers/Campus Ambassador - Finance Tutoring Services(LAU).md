@@ -6,7 +6,7 @@ weight: 2
 ---
 
 <div class="container">
-  <p class="lead mt-3">Wonder Advisory is a leading provider of financial advisory & consultancy services, specializing in financial planning and analysis (FP&A). Specializing in finance, we aim to empower students to excel in their studies and achieve academic success. As part of our expansion strategy, we are seeking dynamic and enthusiastic individuals to join our team as Campus Ambassadors.</p>
+  <p class="lead mt-3">Wonder Advisory is a leading provider of financial advisory & consultancy services, specializing in financial planning and analysis (FP&A). <br>Specializing in finance, we aim to empower students to excel in their studies and achieve academic success. As part of our expansion strategy, we are seeking dynamic and enthusiastic individuals to join our team as Campus Ambassadors.</p>
 
   <h2 class="my-4">Position Overview:</h2>
   <p>We are looking for a highly motivated and outgoing individual to represent Wonder Advisory at LAU. As a Campus Ambassador, you will play a crucial role in promoting our finance tutoring services and building awareness among students. This is an exciting opportunity for a first or second-year finance major who is passionate about helping fellow students succeed academically.</p>
