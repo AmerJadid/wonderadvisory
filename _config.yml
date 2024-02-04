@@ -20,6 +20,9 @@ collections:
     sort_by: weight
   team:
     output: true
+  careers:
+    output: true
+    sort_by: weight
 
 defaults:
   - scope:
@@ -32,6 +35,12 @@ defaults:
       type: "team"
     values:
       layout: "team"
+      sitemap: false
+  - scope:
+      path: ""
+      type: "careers"
+    values:
+      layout: "career"
       sitemap: false
   - scope:
       path: "**"

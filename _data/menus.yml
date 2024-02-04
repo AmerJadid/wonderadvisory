@@ -22,3 +22,6 @@ footer:
   - name: "Contact"
     url: "/contact/"
     weight: 2
+  - name: "Careers"
+    url: "/careers/"
+    weight: 3
