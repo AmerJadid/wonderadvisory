@@ -21,7 +21,7 @@ To ensure a seamless assistance process, please reach out to us via email or pho
             </tr>
             <tr>
                 <td>Friday & Saturday</td>
-                <td>10:am - 4:00pm</td>
+                <td>10:00am - 4:00pm</td>
             </tr>
         </tbody>
     </table>
