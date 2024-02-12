@@ -17,7 +17,7 @@ To ensure a seamless assistance process, please reach out to us via email or pho
         <tbody>
             <tr>
                 <td>Sunday to Thursday</td>
-                <td>8:30am - 5:00pm</td>
+                <td> 8:30am - 5:00pm</td>
             </tr>
             <tr>
                 <td>Friday & Saturday</td>
